@@ -20,6 +20,10 @@ ol, ul {
 }
 
 img {
+
+}
+
+.image {
   max-width: 100%;
   height: auto;
   display: block;
@@ -28,8 +32,4 @@ img {
   margin-right:auto;
   border-radius: 120px;
   border: 3px solid black;
-}
-
-.image {
-
 }

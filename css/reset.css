@@ -23,3 +23,10 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+.image {
+  position: absolute;
+  left: 50%;
+  top: 20%;
+  transform: translate(-50%, -50%);
+}

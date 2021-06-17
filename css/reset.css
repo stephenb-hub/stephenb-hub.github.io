@@ -24,8 +24,8 @@ img {
 }
 
 .image {
-  max-width: 100%;
-  height: auto;
+  width: 40px;
+  height: 40px;
   display: block;
   position:absolute;
   margin-left:auto;
